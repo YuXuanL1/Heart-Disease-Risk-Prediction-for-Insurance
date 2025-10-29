@@ -1,4 +1,4 @@
-# Heart Disease Risk Prediction for Precision Underwriting
+# Heart Disease Risk Prediction for Insurance
 
 This project applies machine learning techniques to predict an individual's risk of heart attack using health survey data. It is aimed at improving **precision underwriting**, **product design**, and **personalized health management** for the insurance industry.
 
