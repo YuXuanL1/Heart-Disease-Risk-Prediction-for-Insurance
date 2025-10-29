@@ -118,3 +118,5 @@ Use predicted risk scores to:
 - Use time-series models to capture behavioral trends
 - Apply explainable AI (e.g., SHAP) for transparent underwriting
 - Integrate real-world claim data for calibration
+
+Chinese report：[MLAI final ppt.pptx](https://github.com/user-attachments/files/23201145/MLAI.final.ppt.pptx)
